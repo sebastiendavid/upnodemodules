@@ -1,0 +1,9 @@
+.idea
+.settings
+.project
+*.iml
+npm-debug.log
+node_modules
+bower_components
+target
+dist
